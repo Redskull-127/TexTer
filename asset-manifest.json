@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TexTer/static/css/main.a617e044.chunk.css",
-    "main.js": "/TexTer/static/js/main.55286158.chunk.js",
-    "main.js.map": "/TexTer/static/js/main.55286158.chunk.js.map",
+    "main.js": "/TexTer/static/js/main.0017b1eb.chunk.js",
+    "main.js.map": "/TexTer/static/js/main.0017b1eb.chunk.js.map",
     "runtime-main.js": "/TexTer/static/js/runtime-main.92cf11ac.js",
     "runtime-main.js.map": "/TexTer/static/js/runtime-main.92cf11ac.js.map",
     "static/js/2.d019bf74.chunk.js": "/TexTer/static/js/2.d019bf74.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.92cf11ac.js",
     "static/js/2.d019bf74.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.55286158.chunk.js"
+    "static/js/main.0017b1eb.chunk.js"
   ]
 }
